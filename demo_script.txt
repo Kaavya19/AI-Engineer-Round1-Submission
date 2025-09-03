@@ -1,0 +1,9 @@
+# Demo Script
+
+1. Open dashboard → show incoming support emails.
+2. Highlight email details (sender, subject, body, extracted info).
+3. Show sentiment & priority tagging.
+4. Demonstrate AI-generated draft reply.
+5. Show analytics panel (total, resolved, pending).
+6. End with impact: faster replies, improved CSAT, reduced manual work.
+    
